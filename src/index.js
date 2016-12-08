@@ -1,5 +1,8 @@
-const greeting = (name) => {
-  console.log(`Hello, ${name}!`);
-};
+import React from "react";
+import ReactDOM from "react-dom";
+import Greeting from './greeting';
 
-greeting('world');
+ReactDOM.render(
+  <Greeting name="World"/>,
+  document.getElementById('container')
+);
