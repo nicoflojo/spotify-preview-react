@@ -1,0 +1,23 @@
+{
+  "name": "spotify-preview-react",
+  "version": "1.0.0",
+  "description": ":fire::fire: REACT: ITS SO :fire: RIGHT NOW.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoflojo/spotify-preview-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoflojo/spotify-preview-react/issues"
+  },
+  "homepage": "https://github.com/nicoflojo/spotify-preview-react#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
