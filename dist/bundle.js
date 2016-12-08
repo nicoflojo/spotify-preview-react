@@ -44,7 +44,13 @@
 /* 0 */
 /***/ function(module, exports) {
 
-	
+	'use strict';
+
+	var greeting = function greeting(name) {
+	  console.log('Hello, ' + name + '!');
+	};
+
+	greeting('world');
 
 /***/ }
 /******/ ]);
